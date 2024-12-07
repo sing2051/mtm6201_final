@@ -1,0 +1,1 @@
+in the final project...its not perfect  ihad a lot of issues while doing it like difficulity to position things and make buttons, sometimes a single mistake ruin the entire code, i tried some java as well. So,I tried my best.
